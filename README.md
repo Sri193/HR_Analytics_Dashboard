@@ -59,7 +59,8 @@ The dataset contains employee-level HR data, including:
 ---
 
 ## 🖼 Dashboard Preview
-![HR Attrition Dashboard](./assets/hr_attrition_dashboard.png)
+<img width="1920" height="1080" alt="HR Dashboard Image" src="https://github.com/user-attachments/assets/7f742a12-1def-4b05-8e6a-7c41d32dd583" />
+
 
 ---
 
